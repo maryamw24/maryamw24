@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamw24&label=Profile%20views&color=0e75b6&style=flat" alt="maryamw24" /> </p>
 
 
--  🌱 I’m currently learning **Web Development, DSA**
+-  🌱 I’m currently learning **Web Development, DSA, SQL**
 
-- 💬 Ask me about **C++,C#, Python, HTML, CSS**
+- 💬 Ask me about **C++,C#, Python, HTML, CSS, JS**
 
 - 📫 How to reach me **maryamw1124@gmail.com**
 
